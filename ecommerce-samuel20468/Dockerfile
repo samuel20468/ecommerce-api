@@ -1,6 +1,6 @@
 FROM node:18
 WORKDIR /app
-COPY ./ecommerce-api/package*.json ./
+COPY ./ecommerce-samuel20468/package*.json ./
 RUN npm install
 COPY . .
 EXPOSE 3000
