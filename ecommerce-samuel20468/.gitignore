@@ -1,5 +1,4 @@
 # compiled output
-/.github
 /dist
 /node_modules
 /build
@@ -30,7 +29,6 @@ lerna-debug.log*
 *.sublime-workspace
 
 # IDE - VSCode
-../.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
